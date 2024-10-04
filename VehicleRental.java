@@ -86,7 +86,7 @@
 
          //create motor object===============================================
          Motorcycle motorcycle= new Motorcycle( "dina", "Y15", 1550, 100, 500);
-         
+          
     
       // output Car details
       System.out.println("Car Details:");
